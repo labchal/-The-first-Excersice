@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\Excersices From Codewars (8 kuy)\Excersices From Codewars (8 kuy)\bin\Debug\Excersices From Codewars (8 kuy).exe.config
+C:\Users\Hp\source\repos\Excersices From Codewars (8 kuy)\Excersices From Codewars (8 kuy)\bin\Debug\Excersices From Codewars (8 kuy).exe
+C:\Users\Hp\source\repos\Excersices From Codewars (8 kuy)\Excersices From Codewars (8 kuy)\bin\Debug\Excersices From Codewars (8 kuy).pdb
+C:\Users\Hp\source\repos\Excersices From Codewars (8 kuy)\Excersices From Codewars (8 kuy)\obj\Debug\Excersices From Codewars (8 kuy).csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\Excersices From Codewars (8 kuy)\Excersices From Codewars (8 kuy)\obj\Debug\Excersices From Codewars (8 kuy).csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Excersices From Codewars (8 kuy)\Excersices From Codewars (8 kuy)\obj\Debug\Excersices From Codewars (8 kuy).exe
+C:\Users\Hp\source\repos\Excersices From Codewars (8 kuy)\Excersices From Codewars (8 kuy)\obj\Debug\Excersices From Codewars (8 kuy).pdb
+C:\Users\Hp\Desktop\Excersices From Codewars (8 kuy)\Excersices From Codewars (8 kuy)\bin\Debug\Excersices From Codewars (8 kuy).exe.config
+C:\Users\Hp\Desktop\Excersices From Codewars (8 kuy)\Excersices From Codewars (8 kuy)\bin\Debug\Excersices From Codewars (8 kuy).exe
+C:\Users\Hp\Desktop\Excersices From Codewars (8 kuy)\Excersices From Codewars (8 kuy)\bin\Debug\Excersices From Codewars (8 kuy).pdb
+C:\Users\Hp\Desktop\Excersices From Codewars (8 kuy)\Excersices From Codewars (8 kuy)\obj\Debug\Excersices From Codewars (8 kuy).csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\Excersices From Codewars (8 kuy)\Excersices From Codewars (8 kuy)\obj\Debug\Excersices From Codewars (8 kuy).csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Excersices From Codewars (8 kuy)\Excersices From Codewars (8 kuy)\obj\Debug\Excersices From Codewars (8 kuy).exe
+C:\Users\Hp\Desktop\Excersices From Codewars (8 kuy)\Excersices From Codewars (8 kuy)\obj\Debug\Excersices From Codewars (8 kuy).pdb
